@@ -1,5 +1,5 @@
 
-# FFmpegKit for Flutter [![pub](https://img.shields.io/badge/pub-2.0.0-blue)](https://pub.dev/packages/ffmpeg_kit_flutter_new) [![discord](https://img.shields.io/badge/discord-purple)](https://discord.gg/s2HCWep9)
+# FFmpegKit for Flutter [![pub](https://img.shields.io/badge/pub-2.0.0-blue)](https://pub.dev/packages/ffmpeg_kit_flutter) [![discord](https://img.shields.io/badge/discord-purple)](https://discord.gg/s2HCWep9)
 
 ## Upgraded version of the original [Flutter FFmpegKit](https://github.com/arthenica/ffmpeg-kit/tree/main/flutter/flutter).
 
@@ -45,11 +45,11 @@ The error above is going to happen during the first run only ONCE. It occurs bec
 
 ### 3. Installation
 
-Add `ffmpeg_kit_flutter_new` as a dependency in your `pubspec.yaml file`.
+Add `ffmpeg_kit_flutter` as a dependency in your `pubspec.yaml file`.
 
 ```yaml
 dependencies:  
- ffmpeg_kit_flutter_new: ^2.0.0
+ ffmpeg_kit_flutter: ^2.0.0
 ```
 
 NOTE: Android know issue:
@@ -57,7 +57,7 @@ NOTE: Android know issue:
 #### 4. Platform Support
 
 The following table shows Android API level, iOS deployment target and macOS deployment target requirements in  
-`ffmpeg_kit_flutter_new` releases.
+`ffmpeg_kit_flutter` releases.
 
 <table align="center">  
   <thead>  
