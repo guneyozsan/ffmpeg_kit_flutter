@@ -16,8 +16,10 @@ flutter:
         pluginClass: MainActivity
       ios:
         pluginClass: FFmpegKitFlutterPlugin
+        fileName: FFmpegKitFlutterPlugin.m
       macos:
         pluginClass: FFmpegKitFlutterPlugin
+        fileName: FFmpegKitFlutterPlugin.m
 
 dependencies:
   ffmpeg_kit_flutter_android: ^1.7.0
